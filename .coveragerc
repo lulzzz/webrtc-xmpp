@@ -1,0 +1,3 @@
+[run]
+source = mydoctor
+omit = mydoctor/test*
